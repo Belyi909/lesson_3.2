@@ -1,0 +1,15 @@
+# coding=windows-1251
+print("Этапы эволюции человека:")
+print("'homo erectus'")
+print("'australopitecus'")
+print("'homo sapiens sapiens'")
+print("'homo sapiens'")
+print("'homo habilis'")
+print("Введите названия этапов, в порядке их появления")
+a = input("1-й этап: ")
+b = input("2-й этап: ")
+c = input("3-й этап: ")
+d = input("4-й этап: ")
+e = input("5-й этап: ")
+print(a, b, c, d, e, sep="=>")
+     
